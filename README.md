@@ -1,4 +1,4 @@
-Crabble
+Krabble
 =======
 
 A simple Scrabble game, implemented with python and pygame.
